@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationNotification</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_api_key">AIzaSyAdOvyjp4foH93GUq-FGtux0Kb28jAGmUo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
