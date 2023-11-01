@@ -1,4 +1,3 @@
 # DontForgetToVisit
 An android app that helps you to remember something for spesific locations.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sdOCaKEW8yc?si=PUDw6zwtr7zomd_C" frameborder="0" allowfullscreen></iframe>
-
+[![GPT Voice Assistant Website]([https://gpt-voice-assistant-3vsm029nx-harunluk.vercel.app/assets/eye-blue.png](https://i9.ytimg.com/vi_webp/sdOCaKEW8yc/mq2.webp?sqp=CKDDiKoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF4gXiheMA8=&rs=AOn4CLAY1IKIsQaeSUBuV3HNtrkVgfk-hg)https://i9.ytimg.com/vi_webp/sdOCaKEW8yc/mq2.webp?sqp=CKDDiKoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF4gXiheMA8=&rs=AOn4CLAY1IKIsQaeSUBuV3HNtrkVgfk-hg)]([https://gpt-voice-assistant.vercel.app/](https://youtu.be/sdOCaKEW8yc)https://youtu.be/sdOCaKEW8yc)
